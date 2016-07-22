@@ -23,6 +23,7 @@
 
 ### Java相关（GC，JVM等）
 * [GC历史综述和HotSpot](http://hllvm.group.iteye.com/group/topic/41086/)
+* [jenkov](http://tutorials.jenkov.com/)
 * [Java内存模型](http://www.cs.umd.edu/~pugh/java/memoryModel/)
 * [你假笨](http://lovestblog.cn/)
 * [丁一blog](http://www.ticmy.com/)
