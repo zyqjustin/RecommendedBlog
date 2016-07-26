@@ -1,6 +1,9 @@
 # RecommendedBlog
 纪录关注的blog和技术站点，涉及编程语言、设计模式、框架技术、大数据技术、推荐、运维等方面，部分技术文章可能已经过时，仅供当时学习参考。
 
+### 程序员技能图谱
+[技能图谱](http://skill-map.stuq.org/)
+
 ### 个人blog和团队blog
 * [netflix技术博客](http://techblog.netflix.com/)
 * [美团技术](http://tech.meituan.com/)
