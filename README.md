@@ -17,6 +17,7 @@
 ### 技术站点
 众所周知的站点不列举
 * [javaworld](http://www.javaworld.com/)
+* [深度开源](http://www.open-open.com/lib/)
 * [IT技术博客大学习](http://blogread.cn/it/)
 * [牛吧大数据](http://blog.niubua.com/)
 * [极客头条](http://geek.csdn.net/bigdata)
